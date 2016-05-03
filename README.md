@@ -1,9 +1,9 @@
-# Vue.js / PHP / Bootstrap boilerplate
+# Vue.js / PHP / Semantic UI boilerplate
 
 ## Includes
 - Vue.js
 - jQuery
-- Bootstrap
+- Semantic UI
 - SASS
 - Command to run default Mac's PHP server
 
